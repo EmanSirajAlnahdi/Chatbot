@@ -16,3 +16,11 @@ A simple Arabic voice chatbot that:
 - Python 3.10+
 - Microphone & speakers
 - DeepSeek API key
+
+## Run
+python chatbot.py
+
+
+
+
+
